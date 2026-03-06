@@ -1,4 +1,4 @@
 # apna_college
 git and github learning
 <br>
-Author - Surajit Maity
+Author - Surajit Maity (learning)
